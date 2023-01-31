@@ -1,0 +1,9 @@
+#Objects folder 
+.obj/
+
+#Properties folder
+.Properties/
+
+
+#Appsettings.json
+appsettings.json
